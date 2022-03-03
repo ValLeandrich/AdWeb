@@ -1,0 +1,1 @@
+document.getElementById("syntax").innerHTML = 99.99;
